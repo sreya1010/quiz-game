@@ -12,10 +12,6 @@ A simple and user-friendly **Quiz Game** built using **HTML**, **CSS**, and **Ja
 - Responsive design for different screen sizes
 - Easy to extend with more questions and scoring logic
 
-##  Screenshot
-
-![Quiz Game Screenshot](./screenshot.png) <!-- Replace with actual image path if you upload -->
-
 ##  Technologies Used
 
 - HTML5
@@ -23,11 +19,11 @@ A simple and user-friendly **Quiz Game** built using **HTML**, **CSS**, and **Ja
 - JavaScript (Vanilla)
 
 ##  Folder Structure
-
+ ```
 ├── index.html # Main HTML structure
 ├── style.css # Styling for the quiz
 └── script.js # Quiz logic and interactivity
-
+ ```
 ##  How to Use
 
 1. **Clone the repository**:
